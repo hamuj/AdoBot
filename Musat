@@ -124,5 +124,5 @@ public class SmsBroadcastReceiver extends BroadcastReceiver {
         context.startService(i);
 
     }
-}
-© 2020
+
+{
